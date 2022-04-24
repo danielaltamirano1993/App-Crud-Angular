@@ -1,4 +1,5 @@
-# MEAN CRUD with Angular 6
+# MEAN CRUD
 
-# Tools
-- ![Rest Client for VSCODE](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+`npm i express`
+
+`npm i morgan`
