@@ -7,3 +7,9 @@
 `npm i nodemon -D`
 
 `"scripts": { "dev": "nodemon ./src/index.js",`
+
+# DIR --> Routes with API
+
+`app.use(require Routes)`
+
+# Controllers
