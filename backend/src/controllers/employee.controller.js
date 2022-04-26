@@ -3,6 +3,7 @@ const Employee = require("../models/employee");
 const employeeCtrl = {};
 
 employeeCtrl.getEmployees = async (req, res, next) => {
+  // get all employees
   const employees = await Employee.find();
   res.json(employees);
 };
