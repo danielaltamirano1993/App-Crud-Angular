@@ -22,10 +22,10 @@ PUT http://localhost:3100/api/employees/5b0624a7abcb202a3af189b6
 Content-Type: application/json
 
 {
-    "name": "Joe McMillan",
-    "position": "Digital Marketing Manager",
-    "office": "California",
-    "salary": "20000"
+    "name": "Juan David",
+    "position": "Content Creator",
+    "office": "Ecuador",
+    "salary": "3000"
 }
 
 ###
