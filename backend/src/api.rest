@@ -6,10 +6,10 @@ POST http://localhost:3100/api/employees HTTP/1.1
 Content-Type: application/json
 
 {
-    "name": "Ryan Ray",
-    "position": "Snr. Developer",
-    "office": "Rome",
-    "salary": "22000"
+    "name": "Daniel ALtamirano",
+    "position": "Angular Developer",
+    "office": "USA",
+    "salary": "9000"
 }
 
 ### 
