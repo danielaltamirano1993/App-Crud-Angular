@@ -29,3 +29,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 `ng serve -o`
 
 ##### -o advanced server
+
+# New terminal in the same place
+
+`ng g c components/employee`
+
+####ng g --> generate
+####ng g c --> generate component
+####ng g c --> generate component name folder
