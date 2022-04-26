@@ -8,6 +8,7 @@ employeeCtrl.getEmployees = async (req, res, next) => {
 };
 
 employeeCtrl.createEmployee = async (req, res, next) => {
+  // create a employee, modelBBDD
   const employee = new Employee({
     name: req.body.name,
     position: req.body.position,
