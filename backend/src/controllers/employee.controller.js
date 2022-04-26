@@ -19,6 +19,7 @@ employeeCtrl.createEmployee = async (req, res, next) => {
 };
 
 employeeCtrl.getEmployee = async (req, res, next) => {
+  // get one employee
   const { id } = req.params;
   const employee = await Employee.findById(id);
   res.json(employee);
