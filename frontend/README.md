@@ -36,7 +36,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ####ng g --> generate
 ####ng g c --> generate component
-####ng g c --> generate component name folder
+####ng g c project--> generate component name folder
+####ng g s service/employee ---> generate service
 
 # npm comands
 
