@@ -9,3 +9,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 # Steps
 
 `npm i @angular/cli -g`
+
+# version
+
+`ng --version`
