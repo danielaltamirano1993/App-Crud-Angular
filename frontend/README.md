@@ -52,4 +52,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 `.card>.card-body`
 `table table-striped`
 
-# Function sin archive --> employee.components.ts
+# Functions in archive --> employee.components.ts
