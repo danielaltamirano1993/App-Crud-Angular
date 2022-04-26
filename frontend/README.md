@@ -56,4 +56,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ###### Observable --> console in Browser
 
-##### CORS is service for restricted data from other servers
+##### CORS is service for restricted data from other servers or ports
+
+## Folder models
+
+`interface Employees{ data of arrays that used Frontend }`
