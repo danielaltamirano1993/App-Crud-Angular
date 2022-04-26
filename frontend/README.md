@@ -13,3 +13,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 # version
 
 `ng --version`
+
+# Folder Project name
+
+`ng new frontend`
