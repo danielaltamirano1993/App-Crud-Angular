@@ -10,6 +10,7 @@ export class EmployeeService {
   employees: Employee[];
   readonly URL_API = "http://localhost:3000/api/employees";
 
+  //Http.client --> equal to AXIOS
   constructor(private http: HttpClient) {
     this.selectedEmployee = new Employee();
   }
