@@ -45,3 +45,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 # in Angular.json modify or agree
 
 `node_modules/bootswatch/dist/materia/bootstrap.min.css`
+
+# Components, Navbar in getbootstrap.com
