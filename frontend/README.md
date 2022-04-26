@@ -47,3 +47,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 `node_modules/bootswatch/dist/materia/bootstrap.min.css`
 
 # Components, Navbar in getbootstrap.com
+
+`.card>.card-body`
+`table table-striped`
